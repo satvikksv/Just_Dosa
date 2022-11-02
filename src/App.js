@@ -1,9 +1,18 @@
 import './App.css';
+import Cover from './components/Cover';
+import Footer from './components/Footer';
+import Hero from './components/Hero';
+import Navbar from './components/Navbar';
+import Specials from './components/Specials';
 
 function App() {
   return (
     <>
-      <h1 className='text-4xl font-bold'>hello</h1>
+      <Navbar />
+      <Cover />
+      <Specials />
+      <Hero />
+      <Footer />
     </>
   );
 }
