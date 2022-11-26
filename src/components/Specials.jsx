@@ -4,7 +4,7 @@ import { AiFillStar } from "react-icons/ai";
 const Specials = () => {
   return (
     <section className='w-full max-w-[1640px] 2xl:mx-auto'>
-      <h1 className='py-6 text-center text-xl md:text-3xl font-bold'>Today Specials</h1>
+      <h1 className='py-6 text-center text-xl md:text-3xl font-bold text-orange-500'>Today Specials</h1>
       <div className='w-[100%]  grid gap-6 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4'>
         <main className='w-[100%] px-4  hover:scale-105 duration-300  h-[350px]'>
           <img src="https://media.istockphoto.com/photos/crispy-pancake-made-of-fermented-whole-grain-kodo-millet-batter-with-picture-id1321356515?k=20&m=1321356515&s=612x612&w=0&h=T_mt3ibD5ZMexN7avpVm6vH0qtuy07nRGOE8ImqAsV0="
