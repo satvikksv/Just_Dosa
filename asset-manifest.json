@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Just_Dosa/static/css/main.29114fc2.css",
-    "main.js": "/Just_Dosa/static/js/main.8136c4ff.js",
+    "main.css": "/Just_Dosa/static/css/main.49f4f2c3.css",
+    "main.js": "/Just_Dosa/static/js/main.deb86cfc.js",
     "static/media/cover_two.jpg": "/Just_Dosa/static/media/cover_two.58559d3df84e478736f2.jpg",
     "static/media/dosa_icon.png": "/Just_Dosa/static/media/dosa_icon.e02a0df7a8a21fe574d8.png",
     "index.html": "/Just_Dosa/index.html",
-    "main.29114fc2.css.map": "/Just_Dosa/static/css/main.29114fc2.css.map",
-    "main.8136c4ff.js.map": "/Just_Dosa/static/js/main.8136c4ff.js.map"
+    "main.49f4f2c3.css.map": "/Just_Dosa/static/css/main.49f4f2c3.css.map",
+    "main.deb86cfc.js.map": "/Just_Dosa/static/js/main.deb86cfc.js.map"
   },
   "entrypoints": [
-    "static/css/main.29114fc2.css",
-    "static/js/main.8136c4ff.js"
+    "static/css/main.49f4f2c3.css",
+    "static/js/main.deb86cfc.js"
   ]
 }
